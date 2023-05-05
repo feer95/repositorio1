@@ -1,3 +1,8 @@
+function sum(x, y, z) {
+    let resultado
+    resultado = x + y + z
+    return resultado
+}
 function res(x, y) {
     let resultado
     resultado = x - y
